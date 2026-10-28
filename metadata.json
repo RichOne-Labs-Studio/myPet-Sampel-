@@ -1,0 +1,6 @@
+{
+  "name": "Vier Pet Care",
+  "description": "myPet - Sistem Manajemen Klinik Hewan Terpadu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
